@@ -1,5 +1,5 @@
 # HEIMDALL — Sistema de Vigilancia Inteligente con IA
-### Proyecto completo para Raspberry Pi 5 · Portfolio-ready · Nivel intermedio–avanzado
+### Proyecto completo para Raspberry Pi 5 · 
 
 > *"El guardian que nunca duerme."*
 > Nombres alternativos: **EyePi**, **SentinelEdge**, **GuardianCore**
